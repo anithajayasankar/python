@@ -1,4 +1,4 @@
-aa=input("Enter a password:")
+a=input("Enter a password:")
 up=0
 sm=0
 dg=0
